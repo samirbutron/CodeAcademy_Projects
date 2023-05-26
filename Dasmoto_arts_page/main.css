@@ -1,0 +1,35 @@
+.header {
+    background-image: url(images/pattern.jpeg);
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+h1,h2,h3,p{
+    font-family: Helvetica;
+}
+
+.green-banner{
+    background-color: mediumspringgreen;
+}
+
+.red-banner{
+    background-color: lightcoral;
+}
+
+.blue-banner{
+    background-color: skyblue;
+}
+
+.section{
+    font-size: 32px;
+    color: white;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.blue{
+    color: blue;
+}
